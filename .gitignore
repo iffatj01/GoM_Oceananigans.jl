@@ -1,0 +1,7 @@
+/Manifest.toml
+/output/
+/data/
+/.vscode/
+/.julia
+*.jld2
+*.mp4
